@@ -1,0 +1,77 @@
+.body {
+    background-color: gray;
+
+}
+
+
+.container {
+    background-color: rgb(238,238,238);
+    
+}
+.card {
+    padding: 0.5rem;
+    background-color: white;
+    
+}
+
+.carousel-item > img {
+    padding: 2.5cm;
+}
+
+.off {
+    background-color: blueviolet;
+    height: 0.8cm;
+    width: 1.5cm;
+    text-align:center;
+    color: white;
+    
+}
+.platform > img, .linux {
+    height: 35px;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: xx-large;
+}
+.navbar-brand > span {
+    color: blueviolet;
+}
+
+.navbar {
+    padding: 0 5rem;
+}
+
+.container-fluid {
+    justify-content: space-between;
+}
+
+.navbar-nav {
+    align-items: center;
+    
+    
+}
+
+.previous-price {
+    text-decoration: line-through;
+}
+
+.price {
+    text-align: center;
+    align-items: stretch;
+}
+
+.counter {
+    color: white;
+    font-size: 15mm;
+    
+}
+
+#navbarNav {
+    flex-grow: 0;
+}
+
+.highlight {
+    font-weight: bold;
+    
+}
